@@ -1,7 +1,10 @@
 {
   "pages": [
+    "pages/index/index",
     "pages/main/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/order/order",
+    "pages/pay/pay"
   ],
   "window": {
     "backgroundTextStyle": "light",
